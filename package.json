@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@aws-amplify/pushnotification": "^3.0.11",
+    "aws-amplify": "^3.0.11",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-push-notification": "^3.4.0"
